@@ -1,4 +1,4 @@
-1)Fefoult in Horizontal Position 
+1)by Default it is in Horizontal Position 
 
 2)Can do Verticle 
 
