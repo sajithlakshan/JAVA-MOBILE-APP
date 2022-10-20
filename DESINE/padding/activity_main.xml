@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#484E4D"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="100px"
+
+        android:text="Yooo" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_marginLeft="100px"
+        android:layout_marginTop="300px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Gooo" />
+
+</LinearLayout>
